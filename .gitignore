@@ -36,3 +36,5 @@ project.sublime-workspace
 lib
 test-results.xml
 playground.js
+
+package-lock.json

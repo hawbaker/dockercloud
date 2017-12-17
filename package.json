@@ -1,6 +1,6 @@
 {
   "name": "dockercloud",
-  "version": "0.2.2",
+  "version": "0.1.0",
   "description": "Node.js library for Docker Cloud API",
   "main": "lib/dockercloud.js",
   "scripts": {
@@ -12,18 +12,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CityofSurrey/dockercloud.git"
+    "url": "git+https://github.com/hawbaker/dockercloud.git"
   },
   "keywords": [
     "docker",
     "dockercloud"
   ],
-  "author": "Viatcheslav Ivanov (viatcheslav.ivanov@surrey.ca)",
+  "author": "Viatcheslav Ivanov <viatcheslav.ivanov@surrey.ca>",
+  "contributors": [
+    "bob hawbaker <biller.shield@gmail.com>"
+  ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CityofSurrey/dockercloud/issues"
+    "url": "https://github.com/hawbaker/dockercloud/issues"
   },
-  "homepage": "https://github.com/CityofSurrey/dockercloud#readme",
+  "homepage": "https://github.com/hawbaker/dockercloud#readme",
   "dependencies": {
     "babel-polyfill": "^6.9.1",
     "request": "^2.71.0",
